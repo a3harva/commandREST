@@ -11,5 +11,9 @@ To run this application:
 ```
 python manage.py runserver
 ```
+```sh
+brew install this new appp 
+```
+
 New Commit test
 Test 2
